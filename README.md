@@ -1,4 +1,4 @@
-# Simpl-Todo-Using-JavasCript
+# Simple-Todo-Using-JavasCript
 A project of the third module of SkyLab from RocketSeat.
 
 The only language used was JavaScript!
