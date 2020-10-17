@@ -1,4 +1,3 @@
 # Simple-Todo-Using-JavaScript
-A project of the third module of SkyLab from RocketSeat.
 
-The only language used was JavaScript!
+Nothing too complex, just a simple ToDos manager made using JavaScript.
